@@ -1,6 +1,6 @@
 #include "cublas_utils.h"
 #include <iostream>
-
+// gengxin
 cublasWrapper::cublasWrapper(cublasHandle_t cublas_handle,
 		cublasLtHandle_t cublaslt_handle):
 	cublas_handle_(cublas_handle),
